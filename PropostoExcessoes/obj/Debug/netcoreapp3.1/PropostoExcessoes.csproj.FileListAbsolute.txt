@@ -1,0 +1,13 @@
+C:\Users\gisel\Desktop\Projeto C#\PropostoExcessoes\PropostoExcessoes\bin\Debug\netcoreapp3.1\PropostoExcessoes.exe
+C:\Users\gisel\Desktop\Projeto C#\PropostoExcessoes\PropostoExcessoes\bin\Debug\netcoreapp3.1\PropostoExcessoes.deps.json
+C:\Users\gisel\Desktop\Projeto C#\PropostoExcessoes\PropostoExcessoes\bin\Debug\netcoreapp3.1\PropostoExcessoes.runtimeconfig.json
+C:\Users\gisel\Desktop\Projeto C#\PropostoExcessoes\PropostoExcessoes\bin\Debug\netcoreapp3.1\PropostoExcessoes.runtimeconfig.dev.json
+C:\Users\gisel\Desktop\Projeto C#\PropostoExcessoes\PropostoExcessoes\bin\Debug\netcoreapp3.1\PropostoExcessoes.dll
+C:\Users\gisel\Desktop\Projeto C#\PropostoExcessoes\PropostoExcessoes\bin\Debug\netcoreapp3.1\PropostoExcessoes.pdb
+C:\Users\gisel\Desktop\Projeto C#\PropostoExcessoes\PropostoExcessoes\obj\Debug\netcoreapp3.1\PropostoExcessoes.csprojAssemblyReference.cache
+C:\Users\gisel\Desktop\Projeto C#\PropostoExcessoes\PropostoExcessoes\obj\Debug\netcoreapp3.1\PropostoExcessoes.csproj.CoreCompileInputs.cache
+C:\Users\gisel\Desktop\Projeto C#\PropostoExcessoes\PropostoExcessoes\obj\Debug\netcoreapp3.1\PropostoExcessoes.AssemblyInfoInputs.cache
+C:\Users\gisel\Desktop\Projeto C#\PropostoExcessoes\PropostoExcessoes\obj\Debug\netcoreapp3.1\PropostoExcessoes.AssemblyInfo.cs
+C:\Users\gisel\Desktop\Projeto C#\PropostoExcessoes\PropostoExcessoes\obj\Debug\netcoreapp3.1\PropostoExcessoes.dll
+C:\Users\gisel\Desktop\Projeto C#\PropostoExcessoes\PropostoExcessoes\obj\Debug\netcoreapp3.1\PropostoExcessoes.pdb
+C:\Users\gisel\Desktop\Projeto C#\PropostoExcessoes\PropostoExcessoes\obj\Debug\netcoreapp3.1\PropostoExcessoes.genruntimeconfig.cache
